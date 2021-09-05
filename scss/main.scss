@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+// Import components files
+@import "components/contact_form";
+
+// Import layout files
+@import "layout/header";
+@import "layout/footer";

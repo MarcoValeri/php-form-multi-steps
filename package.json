@@ -1,0 +1,23 @@
+{
+  "name": "php-form-multi-steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass scss/main.scss css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoValeri/php-form-multi-steps.git"
+  },
+  "author": "Marco Valeri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoValeri/php-form-multi-steps/issues"
+  },
+  "homepage": "https://github.com/MarcoValeri/php-form-multi-steps#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
